@@ -18,6 +18,7 @@ public class Main {
         al.add("Hello"); 
         al.add("Hi baby");
         al.add("Lalalala");
+        
 		
         
 		System.out.println(al.size());// цей метод виртає розмір нашої колекції так так не lengh() а size() - імено для колекцій

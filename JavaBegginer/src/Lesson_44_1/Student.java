@@ -6,6 +6,7 @@ public class Student {
 	private String LastName;
 	private int Vik;
 	private double Vaga;
+	
 	public String getFirstName() {
 		return FirstName;
 	}
